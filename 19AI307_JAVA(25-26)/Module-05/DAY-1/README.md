@@ -19,8 +19,8 @@ To write a Java program that reads a string (username) from the keyboard using I
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: ARUL KUMARAN S A
+RegisterNumber:  212224040030
 */
 ```
 
