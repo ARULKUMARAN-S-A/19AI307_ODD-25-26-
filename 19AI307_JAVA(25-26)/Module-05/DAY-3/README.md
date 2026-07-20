@@ -20,8 +20,8 @@ To write a Java program that overwrites the existing content of a file using Fil
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: ARUL KUMARAN S A
+RegisterNumber:  212224040030
 */
 ```
 
