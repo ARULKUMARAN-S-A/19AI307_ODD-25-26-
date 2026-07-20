@@ -19,12 +19,6 @@ To write a Java program that demonstrates accessing a static variable using both
 
 ## PROGRAM:
 ```
-/*
-Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
-*/
-```
 
 ## SOURCE CODE:
 
