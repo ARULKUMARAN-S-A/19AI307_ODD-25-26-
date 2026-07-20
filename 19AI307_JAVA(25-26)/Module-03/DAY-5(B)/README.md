@@ -21,8 +21,8 @@ To write a Java program that checks whether a given number is an Armstrong numbe
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: ARUL KUMARAN S A
+RegisterNumber:  212224040030
 */
 ```
 
