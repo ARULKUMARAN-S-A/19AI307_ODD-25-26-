@@ -22,8 +22,8 @@ To implement the Observer design pattern where MatchItServer notifies only those
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: ARUL KUMARAN S A
+RegisterNumber:  212224040030
 */
 ```
 
